@@ -1,5 +1,4 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+# Tech Elevator final capstone
+
+This repository is the final capstone product of the Tech Elevator full stack bootcamp.
+This application was made on a small team of Judith Meyers, Christina Chen, and Justin Bechak over 2 weeks.
